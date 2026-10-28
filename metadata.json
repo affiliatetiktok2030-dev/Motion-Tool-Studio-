@@ -1,0 +1,6 @@
+{
+  "name": "Motion Tool Studio",
+  "description": "Studio produksi konten YouTube dokumenter praktis: riset berbasis sumber terpercaya, naskah narasi dengan verifikasi fakta, voice-over TTS, prompt motion graphics 9:16, dan metadata SEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
